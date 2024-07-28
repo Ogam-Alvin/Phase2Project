@@ -71,7 +71,7 @@ The company will be able to match or excede the production budget of movies that
 
 3. When detremining the most appropriate time to release a movie in order to make the most amount of profits, it was clear that there were two peak seasons when the amount of profit increased dramatically . The first was from the begining of April towards May, after which we then saw that over June and Jully the amount of profit was fairly high . The second peak period was from October to November but unfortunately it was evidence of the decline in profit from November to December. So from that analysis the best time to release a movie would be in the months of April and November,
 
-Recomendations
+## Recomendations
 * It is advisable to start with a middle tier movie genre such as Thriller, Sci-Fi or Animation, as a way to build raport among customers and to build the name of the company's studio, since the company will be venturing into the movie business as a beginner. 
 
 * Release dates for any movies to be made in the months of April and October since those have beeen seen to have a rise in profits.
