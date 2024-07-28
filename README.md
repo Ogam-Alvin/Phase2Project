@@ -5,7 +5,7 @@
 
 ## Project Overview
 This project will use exploratory data analysis to generate insights for a business stakeholder.
-
+Here is an interactive dashboard for this analysis https://public.tableau.com/views/MoviesRecommendationAnalysis/MovieRecommendationAnalysis?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ## Business Problem
 
 Since the client sees big companies creating original video content and they want to get in on the fun, they want to create a new movie studio. 
