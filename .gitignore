@@ -1,0 +1,15 @@
+Thumbs.db
+*.env
+*.local
+.vscode/
+*.log
+*.tmp
+*.swp
+*.swo
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+.env
